@@ -1,0 +1,8 @@
+# Project exclude paths
+/hy-rpc-client/target/
+/hy-rpc-codec/target/
+/hy-rpc-common/target/
+/hy-rpc-example/target/
+/hy-rpc-proto/target/
+/hy-rpc-server/target/
+/hy-rpc-transport/target/
